@@ -1,0 +1,33 @@
+/* Stylesheet */
+header {
+	img-size: 50%;
+}
+
+nav{
+	
+}
+
+body {
+	background: url("../wiki-folder/img/woodgrain.png");
+	font-family: "MyriadPro: 'Voltaire', sans-serif;";
+}
+
+h1{
+	color: #6B8349;
+	
+}
+
+h3{
+	color: #9DAF7F;
+}
+
+#half-size{
+	height:300px; 
+	width:300px;
+}
+
+#logo{
+	height:100px;
+	width:150px;
+	
+}
